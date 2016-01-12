@@ -1,0 +1,15 @@
+{
+  "name": "angular-locale_de-ch",
+  "version": "1.5.0-build.4493+sha.8ccc054",
+  "authors": [
+    "Patrick Borgo <patrick.borgo@gmail.com>"
+  ],
+  "description": "angular locale (swiss german)",
+  "keywords": [
+    "angular"
+    "locale",
+    "de",
+    "ch"
+  ],
+  "license": "MIT"
+}
