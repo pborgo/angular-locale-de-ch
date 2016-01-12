@@ -1,5 +1,5 @@
 # angular-locale-de-ch
-angular locales (swiss german)
+angular locale (swiss german)
 
 ## Install
 ```shell
