@@ -1,5 +1,6 @@
 # angular-locale-de-ch
-angular locale (swiss german)
+Bower package for angular locale (swiss german). 
+The source is from [bower-angular-i18n](https://github.com/angular/bower-angular-i18n).
 
 ## Install
 ```shell
